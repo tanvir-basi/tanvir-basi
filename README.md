@@ -20,4 +20,4 @@ My name is Tanvir and I'm a computer Science student from the UK. Here's some in
 
 :speech_balloon: Reach me by email! tanvirbasi2002@gmail.com
 
-:mailbox: Visit my Website: https://tanvirbasicv.web.app/
+:mailbox: Visit my Website: https://tanvirbasicv.web.app
