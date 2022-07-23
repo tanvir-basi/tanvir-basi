@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-My name is Tanvir and I'm a computer Science student from the UK. Here's some info about me!
+My name is Tanvir and I'm a computer science student from the UK. Here's some info about me!
 
 ###### :zap: Work Experience
 - Data and App Development intern at Oemsecrets - Python/Selenium, MySQL [Jan 2022 - Mar 2022]
