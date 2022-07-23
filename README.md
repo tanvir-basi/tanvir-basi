@@ -6,7 +6,7 @@ My name is Tanvir and I'm a computer Science student from the UK. Here's some in
 - Data and App Development intern at Oemsecrets - Python/Selenium, MySQL [Jan 2022 - Mar 2022]
 -  Junior Web Developer at Oemsecrets - PHP/Laravel, JavaScript  [April 2022 - now]
 
-##### :telescope: Projects
+###### :telescope: Projects
 - Fast fashion 
 - NFT reccomender
 
