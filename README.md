@@ -9,7 +9,8 @@ My name is Tanvir and I'm a computer science student from the UK. Here's some in
 ###### :telescope: Projects
 - Fast fashion 
 - NFT reccomender
-- Finance
+- Stock Post Classifier
+- Social Network
 
 ###### :seedling: Interests
 - Web Development
