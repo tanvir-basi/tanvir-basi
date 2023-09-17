@@ -19,5 +19,3 @@ My name is Tanvir and I'm a computer science student from the UK. Here's some in
 - Web Development
 - Machine Learning 
 - Finance
-
-:mailbox: Visit my Website:
